@@ -40,14 +40,14 @@ print("""
 print(Fore.WHITE)
 
 print(Back.RED+"""*NOTE: 
-    1.  SCRIPT INI HANYA BISA DI GUNAKAN UNTUK PC
+    1.  SCRIPT HANYA BISA DI GUNAKAN UNTUK PC
     2.  SCRIPT HANYA BISA LOGIN VIA FACEBOOK
     3.  SCRIPT HANYA BISA BUY VIA SHOPEEPAY
     4.  START SCRIPT 30 DETIK SEBELUM FLASH SALE DI MULAI
     5.  START SETELAH MEMASUKKAN PASSWORD, LALU ENTER."""+Back.BLACK)
 
 print(Fore.CYAN)
-name = str(input("Masukkan Nama Lengkap Anda: "))
+name = str(input("Masukkan Nama Anda: "))
 
 print(Fore.RED)
 print(Back.YELLOW+"HALAMAN LOGIN AKUN SHOPEE KAMU :"+Back.BLACK)
