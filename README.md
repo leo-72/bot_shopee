@@ -1,0 +1,2 @@
+# shopee
+FOR PC NOT SMARTPHONE!
