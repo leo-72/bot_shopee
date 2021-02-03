@@ -3,4 +3,14 @@ FOR PC NOT SMARTPHONE!
 .
 .
 .
-Using Python 3
+Step to run this script:
+1.  extract geckodrive.rar to your mozilla firefox storage location 
+2.  open CMD or other terminal
+3.  install python 3 | Link: https://www.python.org/downloads/release/python-391/
+4.  install selenium | pip install selenium
+5.  install colorama | pip install colorama
+6.  start script "python3 bot_shopee_flashsale.py"
+.
+.
+.
+THANK YOU ^^
