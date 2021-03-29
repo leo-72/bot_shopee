@@ -1,4 +1,4 @@
-# Bot Shopee Flash Shale v1.2
+# Bot Shopee Flash Sale v1.2
 FOR PC NOT SMARTPHONE!
 .
 .
