@@ -30,15 +30,19 @@ print(Back.BLACK)
 
 print(Fore.RED)
 print("""
-                Tanggal Sekarang
-                    {}
+                  Tanggal Sekarang
+                      {}
     """.format(tanggal))
 
 print(Fore.RED)
 print("""
-                 Waktu Sekarang
-                    {}
+                   Waktu Sekarang
+                      {}
     """.format(waktu))
+
+print("\n")
+print(Back.LIGHTYELLOW_EX)
+print(Fore.RED+"\t\t CREATED BY : Leo-72 ")
 print(Fore.WHITE)
 
 print(Back.RED+"""*NOTE: (WAJIB DIBACA TERLEBIH DAHULU SEBELUM MENJALANKAN SCRIPTNYA!)
