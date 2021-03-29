@@ -25,7 +25,7 @@ waktu="%s:%s:%s" % (times.hour, times.minute, times.second)
 
 print('\n')
 print(Back.LIGHTYELLOW_EX)
-print(Fore.RED+"SCRIPT BOT SHOPEE FLASH SALE v1.2")
+print(Fore.RED+"\t SCRIPT BOT SHOPEE FLASH SALE v1.2 ")
 print(Back.BLACK)
 
 print(Fore.RED)
@@ -41,7 +41,7 @@ print("""
     """.format(waktu))
 print(Fore.WHITE)
 
-print(Back.RED+"""*NOTE: 
+print(Back.RED+"""*NOTE: (WAJIB DIBACA TERLEBIH DAHULU SEBELUM MENJALANKAN SCRIPTNYA!)
     1.  SCRIPT HANYA BISA DI GUNAKAN UNTUK PC
     2.  SCRIPT SUDAH BISA LOGIN AKUN SHOPEE ITU SENDIRI (*Dengan catatan non-aktifkan kode OTP)
     3.  SCRIPT HANYA BISA BUY VIA INDOMARET
@@ -52,16 +52,16 @@ print(Fore.LIGHTGREEN_EX+"======================================================
 
 # Halaman Login 
 print(Fore.RED)
-print(Back.YELLOW+"HALAMAN LOGIN AKUN SHOPEE KAMU :"+Back.BLACK)
+print(Back.YELLOW+"\t\t HALAMAN LOGIN AKUN SHOPEE KAMU : "+Back.BLACK)
 print(Fore.WHITE)
 username = str(input("Masukkan Email/No. Anda\t: "))
 password = getpass("Masukkan Password Anda\t: ")
 
-print(Fore.LIGHTGREEN_EX+"==========================================================")
+print(Fore.LIGHTGREEN_EX+"======================================================================")
 
 # Halaman mengisi alamat
 print(Fore.LIGHTYELLOW_EX)
-print(Back.RED+"ISIKAN ALAMAT ANDA DISINI UNTUK PENGIRIMAN BARANG :"+Back.BLACK)
+print(Back.RED+"\t ISIKAN ALAMAT ANDA DISINI UNTUK PENGIRIMAN BARANG : "+Back.BLACK)
 print(Fore.WHITE)
 name = str(input("Nama Penerima\t\t: "))
 no_telp = str(input("Nomor Telepon Penerima\t: "))
@@ -72,10 +72,10 @@ kodepos = str(input("Kode Pos\t\t: "))
 alamat = str(input("Alamat Penerima\t\t: "))
 alamat_rinci = str(input("Rincian Alamat Tambahan (opsional): "))
 
-print(Fore.LIGHTGREEN_EX+"==========================================================")
+print(Fore.LIGHTGREEN_EX+"======================================================================")
 
 print(Fore.BLUE)
-print("Selamat {}!, Semoga beruntung :)".format(name))
+print("\tSelamat {}!, Semoga beruntung :)".format(name))
 print(Fore.WHITE)
 
 driver = webdriver.Firefox(executable_path='C:\Program Files\Mozilla Firefox\geckodriver.exe')
