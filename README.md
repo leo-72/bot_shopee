@@ -1,4 +1,4 @@
-# shopee
+# Bot Shopee Flash Shale v1.2
 FOR PC NOT SMARTPHONE!
 .
 .
@@ -13,4 +13,4 @@ Step to run this script:
 .
 .
 .
-THANK YOU ^^
+THANK YOU ^_^
