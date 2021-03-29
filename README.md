@@ -9,7 +9,7 @@ Step to run this script:
 3.  install python 3 | Link: https://www.python.org/downloads/release/python-391/
 4.  install selenium | pip install selenium (Auto Install)
 5.  install colorama | pip install colorama (Auto Install)
-6.  start script "python3 bot_shopee_flashsale.py"
+6.  start script "python3 Bot_Shopee.py"
 .
 .
 .
